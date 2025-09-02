@@ -78,22 +78,15 @@ python Tensorflow/scripts/detect.py
 ---
 ## Tech Stack
 Python
-
 TensorFlow / Keras
-
 OpenCV
-
 NumPy / Pandas / Matplotlib
-
 LabelImg (for annotation)
 
-🚀 Future Improvements
-Add support for multi-hand sign detection.
-
-Extend to dynamic sign sequences (continuous signing).
 
 Integrate text-to-speech output.
 
 Deploy as a mobile app for real-world usage.
+
 
 
