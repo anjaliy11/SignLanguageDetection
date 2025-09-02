@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>yes.3067c817-84bc-11f0-b392-3003c89876c0.jpg</filename>
+	<path>C:\Users\anjal\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes\yes.3067c817-84bc-11f0-b392-3003c89876c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>176</ymin>
+			<xmax>356</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.f5013c63-84bb-11f0-8d7f-3003c89876c0.jpg</filename>
+	<path>C:\Users\anjal\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello\hello.f5013c63-84bb-11f0-8d7f-3003c89876c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>245</ymin>
+			<xmax>632</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
