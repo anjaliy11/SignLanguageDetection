@@ -78,15 +78,19 @@ python Tensorflow/scripts/detect.py
 ---
 ## Tech Stack
 Python
-TensorFlow / Keras
+
+TensorFlow 
+
+ Keras
+ 
 OpenCV
-NumPy / Pandas / Matplotlib
+NumPy
+ Pandas 
+ Matplotlib
 LabelImg (for annotation)
 
 
-Integrate text-to-speech output.
 
-Deploy as a mobile app for real-world usage.
 
 
 
