@@ -84,10 +84,15 @@ TensorFlow
  Keras
  
 OpenCV
+
 NumPy
+
  Pandas 
+ 
  Matplotlib
+ 
 LabelImg (for annotation)
+
 
 
 
