@@ -41,11 +41,9 @@ SignLanguageDetection/
 ## Create a virtual environment
 conda create -n signlang python=3.10 -y
 conda activate signlang
-Install dependencies
 
 ---
-
-pip install -r requirements.txt
+  ## Install dependencies
 Install TensorFlow Object Detection API
 git clone https://github.com/tensorflow/models Tensorflow/models
 cd Tensorflow/models/research
@@ -97,4 +95,5 @@ Extend to dynamic sign sequences (continuous signing).
 Integrate text-to-speech output.
 
 Deploy as a mobile app for real-world usage.
+
 
